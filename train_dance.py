@@ -15,7 +15,7 @@ from utils.loss import *
 from models.LinearAverage import LinearAverage
 from eval import test
 
-# Training settings
+# Training settings asas
 
 import argparse
 
